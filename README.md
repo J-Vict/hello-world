@@ -8,3 +8,4 @@ It is called the paradise of the coders.
 I hope that i can learn things there.
 
 update on 2018/02/11.
+how to merge?
